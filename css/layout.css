@@ -96,3 +96,7 @@ h1,h2, h3 {
     aside li {
       padding-bottom: 10px;
   }
+
+  footer p {
+    font-size: 10px;
+  }
