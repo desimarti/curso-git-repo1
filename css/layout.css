@@ -51,6 +51,15 @@ h1,h2, h3 {
     height: 100px;
     background-color: #ff80ff;
     display: flex;
+      margin-bottom: 10px;
+    }
+    
+    nav a {
+      display: inline-block;
+      font-size: 2rem;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: black;
   }
   
   nav img {
@@ -81,4 +90,9 @@ h1,h2, h3 {
   aside {
     flex: 1;
     margin-left: 10px;
+      padding-right: 30px;
+    }
+    
+    aside li {
+      padding-bottom: 10px;
   }
